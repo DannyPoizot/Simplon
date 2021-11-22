@@ -11,18 +11,18 @@
 
 ### Découverte du Markdown : 
 
-* [ ] Comprendre l'intérêt du Markdown
-* [ ] Découvrir les balises de bases : 
-  * [ ] Titres
-  * [ ] Images
-  * [ ] Listes
-  * [ ] Formatage de texte (italique, souligné, gras)
-  * [ ] Code
-  * [ ] Citations
-  * [ ] Tableaux
+* [X] Comprendre l'intérêt du Markdown
+* [X] Découvrir les balises de bases : 
+  * [X] Titres
+  * [X] Images
+  * [X] Listes
+  * [X] Formatage de texte (italique, souligné, gras)
+  * [X] Code
+  * [X] Citations
+  * [X] Tableaux
   * [ ] Liens
-* [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
+* [X Pas en entier] Faire le parcours "how-to-markdown" (Nodeschool.io)
+* [ X Alimenter au fur et à mesure] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
 
 
 ### Méthodes agiles :
