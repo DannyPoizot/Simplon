@@ -31,7 +31,7 @@
 * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
       * [X] `querySelector`
-      * [ ] `querySelectorAll`
+      * [X] `querySelectorAll`
       * [ ] `getElementById`
       * [ ] `getElementsByName`
       * [ ] `getElementsByTagName`
